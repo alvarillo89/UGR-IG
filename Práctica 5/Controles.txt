@@ -1,0 +1,40 @@
+Práctica 5, Álvaro Fernández García
+
+*************************************************************************** 
+***************** OBJETOS *************************************************  
+***************************************************************************  
+1 : Visualizar Pirámide 
+2 : Visualizar Cubo 
+3 : Visualizar objeto PLY 
+4 : Visualizar objeto por revolución 
+5 : Visualizar objeto jerárquico 
+
+*************************************************************************** 
+************ MODOS DE VISUALIZACIÓN ***************************************  
+***************************************************************************  
+P : Modo Puntos 
+L : Modo Líneas 
+F : Modo Relleno 
+C : Modo ajedrez 
+
+*************************************************************************** 
+******************* CÁMARAS ***********************************************  
+***************************************************************************  
+Flechas : Mover Cámara 
+AvPag / RePag : Acercar / alejar cámara 
+F1 : alternar entre cámara única y vistas múltiples 
+F2 : cambiar cámara seleccionada en vista múltiple 
+Botón derecho del ratón : mover cámara en perspectiva
+ 
+*************************************************************************** 
+************* SELECCIÓN DE OBJETOS ****************************************  
+***************************************************************************  
+Botón izquierdo del ratón : seleccionar objeto 
+En el objeto jerárquico (silla), se pueden seleccionar tres partes : 
+* Respaldo : mueve el resplado 
+* Asiento : gira todo el asiento 
+* Base : cambiar la altura de la silla 
+Una vez seleccionado, se podrá modificar su grado de libertad con 
+la tecla A/a (Distingue Mayúsculas y Minúsculas) 
+[!] Previamente deberá seleccionarse alguna parte del objeto jerárquico [!] 
+[!] La selección solo funciona con cámara única [!]
